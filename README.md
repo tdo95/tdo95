@@ -6,7 +6,7 @@ Hey there 👋 I'm Tee 😊 I'm a software engineer passionate about building ex
 
 - 🔭 I’m currently working on: TI-00L - A simple calculator that levitates!
 
-- 🌱 I’m currently learning: JavaScript
+- 📚 I’m currently exploring: JavaScript
 
 - 🤔 I’m looking for insight on: Career Growth & Computational Logic
 
