@@ -1,4 +1,4 @@
-## Welcome to where the magic happens!✨
+# Welcome to Where the Magic Happens!✨
 
 <!--**tdo95/tdo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
