@@ -4,7 +4,7 @@
 
 Hey there 👋 I'm Tee 😊 I'm a software engineer passionate about building experiences that people enjoy. Thanks for stopping by, and feel free take a look around.
 
-- 🔭 I’m currently working on: TI-00L - A levitating calculator!
+- 🔭 I’m currently working on: A virtual art gallery!
 
 - 📚 I’m currently exploring: JavaScript
 
