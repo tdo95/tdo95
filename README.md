@@ -15,7 +15,7 @@
 ### Hey There 👋🏿 ✨ 
 
 My name is Tee, and I'm a software engineer passionate about building experiences that people enjoy.
-Highly motivated by challenge and empathy driven, I have a knack for experimenting with new techology to create sustainable and efficient solutions.
+Highly motivated by challenge and empathy driven, I love experimenting with new techologies to create sustainable and efficient solutions.
 
 <!--    BLOG POSTS    -->
 ### Latest Blog Posts
