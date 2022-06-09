@@ -15,7 +15,7 @@
 ### Hey There 👋🏿 ✨ 
 
 My name is Tee, and I'm a software engineer passionate about building experiences that people enjoy.
-Highly motivated by challenge and empathy driven, I love experimenting with new technologies to create sustainable and efficient solutions.<br><br>
+Highly motivated by challenge and empathy driven, I love experimenting with new technologies to create efficient solutions and sustainable solutions that have impact.<br><br>
 I also enjoy writing and run a lifestyle technology blog called The Developing Dev where I document insights and learnings throughout my career. Check out some of my latest posts below!
 
 <!--    BLOG POSTS    -->
