@@ -6,6 +6,9 @@
   <a href="https://twitter.com/teeintech" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-black?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/tee-o/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-black?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
   <a href="mailto:tdopress@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-tdopress@gmail.com-black?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
@@ -16,11 +19,12 @@
 
 My name is Tee, and I'm a software engineer passionate about building experiences that people enjoy.
 Highly motivated by challenge and empathy driven, I love experimenting with new technologies to create efficient and sustainable solutions that have impact.<br><br>
-I also enjoy writing and run a lifestyle technology blog called The Developing Dev where I document insights and learnings throughout my career. Check out some of my latest posts below!
+I also enjoy writing and run a lifestyle technology blog called [The Developing Dev](https://thedevelopingdev.netlify.app/) where I document insights and learnings throughout my career. Check out some of my latest posts below!
 
 <!--    BLOG POSTS    -->
 ### Latest Blog Posts
-- coming soon!
+- [Here’s How I’m Giving Myself A Full Education in Computer Science for Free](https://thedevelopingdev.netlify.app/heres-how-im-giving-myself-a-full-education-in-computer-science-for-free/)
+- [Making The Most Satisfying Choice: The Beginning of The Developing Dev](https://thedevelopingdev.netlify.app/new-adventures-new-goals-the-beginning-of-the-developing-dev/)
 
 <!--    PROJECTS    -->
 <h2 align='center'>Projects</h2> 
