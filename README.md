@@ -39,7 +39,7 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
             <span> <a href="https://github.com/tdo95/TI00L-calculator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-black?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
             <p align="center">
-              A basic calculator that performs simple mathematic operations, customized with levitating feature for visual intrigue. 
+              A basic calculator that performs simple mathematic operations, customized with levitating feature. 
             </p>
           </p>
         </td>
