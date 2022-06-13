@@ -44,7 +44,7 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">AIC Virtual Art Gallery</h3>
+          <h3 align="center">ArtVizo</h3>
           <p align="center">
             <a href="https://github.com/tdo95/aic-art-gallery" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/aic-art-gallery/blob/main/aic-demo-small.gif" alt="AIC Virtual Art Gallery"/> </a>
             <span> <a href="https://github.com/tdo95/aic-art-gallery" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
