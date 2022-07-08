@@ -46,7 +46,7 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
         <td width="50%">
           <h3 align="center">ArtVizo</h3>
           <p align="center">
-            <a href="https://github.com/tdo95/aic-art-gallery" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/aic-art-gallery/blob/main/aic-demo-small.gif" alt="AIC Virtual Art Gallery"/> </a>
+            <a href="https://github.com/tdo95/aic-art-gallery" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/aic-art-gallery/blob/main/aic-demo-small.gif" alt="AIC Virtual Art Gallery demo"/> </a>
             <span> <a href="https://github.com/tdo95/aic-art-gallery" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="https://tdo95.github.io/aic-art-gallery/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-black?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center">
@@ -55,18 +55,18 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
           </p>
         </td>
       </tr>
-<!--       <tr>
+       <tr>
         <td width="50%">
-          <h3 align="center">Title</h3>
+          <h3 align="center">Tic Tac Toe</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="repo" alt="Repo" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live site" height="25px"></a></span>
+            <a href="https://github.com/tdo95/tictactoe" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/tictactoe/blob/main/tictactoe-demo.gif" alt="Tic Tac Toe demo"/> </a>
+            <span> <a href="https://github.com/tdo95/tictactoe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-black?style=for-the-badge&logo" alt="Live Site" height="25px"></a></a></span>
             <p align="center">
-              Description.
+              Online multiplayer tic tac toe game customized with alternating marker colors and modal animations.
             </p>
           </p>
         </td>
-        <td width="50%">
+        <!-- <td width="50%">
           <h3 align="center">Title</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
@@ -75,8 +75,8 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
               Description.
             </p>
           </p>
-        </td>
-      </tr> -->
+        </td> -->
+      </tr> 
   </table>
 </div>	
 
