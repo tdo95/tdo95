@@ -23,8 +23,8 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
 
 <!--    BLOG POSTS    -->
 ### Latest Blog Posts
+- [Working with APIs: Starting the Build of a Discography Web App](https://thedevelopingdev.netlify.app/working-with-apis/)
 - [Here’s How I’m Giving Myself A Full Education in Computer Science for Free](https://thedevelopingdev.netlify.app/heres-how-im-giving-myself-a-full-education-in-computer-science-for-free/)
-- [Making The Most Satisfying Choice: The Beginning of The Developing Dev](https://thedevelopingdev.netlify.app/new-adventures-new-goals-the-beginning-of-the-developing-dev/)
 
 <!--    PROJECTS    -->
 <h2 align='center'>Projects</h2> 
