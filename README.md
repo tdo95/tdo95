@@ -1,5 +1,5 @@
 <!--    BANNER    -->
-<img src="github-banner.gif" width="100%"> 
+<img src="ghbanner.gif" width="100%"> 
 
 <!--    PERSONAL LINKS    -->
 <p align="center">
