@@ -23,6 +23,7 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
 
 <!--    BLOG POSTS    -->
 ### Latest Blog Posts
+- [Workflow Diagrams & Integrating with Spotify’s API](https://thedevelopingdev.netlify.app/integrating-spotify-api/)
 - [Working with APIs: Starting the Build of a Discography Web App](https://thedevelopingdev.netlify.app/working-with-apis/)
 - [Here’s How I’m Giving Myself A Full Education in Computer Science for Free](https://thedevelopingdev.netlify.app/heres-how-im-giving-myself-a-full-education-in-computer-science-for-free/)
 
