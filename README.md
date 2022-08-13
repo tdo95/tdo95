@@ -19,13 +19,13 @@
 
 My name is Tee, and I'm a software engineer passionate about building experiences that people enjoy.
 Highly motivated by challenge and empathy driven, I love experimenting with new technologies to create efficient and sustainable solutions that have impact.<br><br>
-I also enjoy writing and run a lifestyle technology blog called [The Developing Dev](https://thedevelopingdev.netlify.app/) where I document insights and learnings throughout my career. Check out some of my latest posts below!
+I also enjoy writing and run a lifestyle technology blog called [The Developing Dev](https://developingdev.netlify.app/) where I document insights and learnings throughout my career. Check out some of my latest posts below!
 
 <!--    BLOG POSTS    -->
 ### Latest Blog Posts
-- [Workflow Diagrams & Integrating with Spotify’s API](https://thedevelopingdev.netlify.app/integrating-spotify-api/)
-- [Working with APIs: Starting the Build of a Discography Web App](https://thedevelopingdev.netlify.app/working-with-apis/)
-- [Here’s How I’m Giving Myself A Full Education in Computer Science for Free](https://thedevelopingdev.netlify.app/heres-how-im-giving-myself-a-full-education-in-computer-science-for-free/)
+- [Workflow Diagrams & Integrating with Spotify’s API](https://developingdev.netlify.app/2022/08/03/discolist-workflow-diagrams-integrating-with-spotifys-api/)
+- [Working with APIs: Starting the Build of a Discography Web App](https://developingdev.netlify.app/2022/07/11/working-with-apis-starting-the-build-of-a-discography-web-app/)
+- [Here’s How I’m Giving Myself A Full Education in Computer Science for Free](https://developingdev.netlify.app/2022/06/09/heres-how-im-giving-myself-a-full-education-in-computer-science-for-free/)
 
 <!--    PROJECTS    -->
 <h2 align='center'>Projects</h2> 
