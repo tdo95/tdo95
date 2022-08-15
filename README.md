@@ -32,6 +32,28 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
 
 <div align="center">
   <table>
+  	<tr>
+        <td width="50%">
+          <h3 align="center">DiscoList</h3>
+          <p align="center">
+            <a href="https://github.com/tdo95/discolist" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/discolist/blob/main/discolist-demo.gif" alt="Tic Tac Toe demo"/> </a>
+            <span> <a href="https://github.com/tdo95/discolist" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> <a href="https://tdo95.github.io/discolist/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-black?style=for-the-badge&logo" alt="Live Site" height="25px"></a></a></span>
+            <p align="center">
+              DiscoList is a web application that allows you to look up the discography your favorite artist.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Polyglot</h3>
+          <p align="center">
+            <a href="https://github.com/tdo95/polyglot" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/polyglot/blob/main/poly-demo.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/tdo95/polyglot" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="Github Repo" height ="25px"></a> <a href="https://tdo95.github.io/polyglot/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-black?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <p align="center">
+              Polyglot is a text translation tool that allows you to improve your literacy of a foreign language.
+            </p>
+          </p>
+        </td> 
+      </tr> 
       <tr>
         <td width="50%">
           <h3 align="center">Levitating Calculator</h3>
@@ -56,28 +78,6 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
           </p>
         </td>
       </tr>
-       <tr>
-        <td width="50%">
-          <h3 align="center">Tic Tac Toe</h3>
-          <p align="center">
-            <a href="https://github.com/tdo95/tictactoe" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/tictactoe/blob/main/tictactoe-demo.gif" alt="Tic Tac Toe demo"/> </a>
-            <span> <a href="https://github.com/tdo95/tictactoe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> <a href="https://tdo95.github.io/tictactoe/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-black?style=for-the-badge&logo" alt="Live Site" height="25px"></a></a></span>
-            <p align="center">
-              Online two-player tic tac toe game customized with alternating marker colors and modal animations.
-            </p>
-          </p>
-        </td>
-        <!-- <td width="50%">
-          <h3 align="center">Title</h3>
-          <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="gif" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live Site" height="25px"></a> </span>
-            <p align="center">
-              Description.
-            </p>
-          </p>
-        </td> -->
-      </tr> 
   </table>
 </div>	
 
