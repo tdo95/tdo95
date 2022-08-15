@@ -46,7 +46,7 @@ I also enjoy writing and run a lifestyle technology blog called [The Developing 
         <td width="50%">
           <h3 align="center">Polyglot</h3>
           <p align="center">
-            <a href="https://github.com/tdo95/polyglot" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/polyglot/blob/main/poly-demo.gif" alt="project example"/> </a>
+            <a href="https://github.com/tdo95/polyglot" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/polyglot/blob/main/poly-demo-small.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/tdo95/polyglot" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-2e4756?style=for-the-badge&logo=GitHub" alt="Github Repo" height ="25px"></a> <a href="https://tdo95.github.io/polyglot/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-black?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center">
               Polyglot is a text translation tool that allows you to improve your literacy of a foreign language.
