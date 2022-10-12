@@ -20,6 +20,10 @@
 My name is Tee, and I'm a software engineer passionate about building experiences that people enjoy.
 Highly motivated by challenge and empathy driven, I love experimenting with new technologies to create efficient and sustainable solutions that have impact.<br><br>
 
+<div align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-black?&style=for-the-badge&logo=html5&logoColor=blue"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-black?&style=for-the-badge&logo=css3&logoColor=red"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=gray" /> <img alt="Figma" src="https://img.shields.io/badge/figma-black?&style=for-the-badge&logo=figma&logoColor=purple"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=blue"/> <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</div>
+
 <!--    BLOG POSTS    -->
 ### Latest Blog Posts
 - [Workflow Diagrams & Integrating with Spotify’s API](https://developingdev.netlify.app/2022/08/03/discolist-workflow-diagrams-integrating-with-spotifys-api/)
@@ -86,9 +90,3 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tdo95&theme=highcontrast&ring=2E4756&fire=B6CBD9&currStreakLabel=FFFFFF&border=B6CBD9">
 </div>
 
-<!--    TECHNOLOGIES    -->
-<h2 align="center">Technologies</h2>
-
-<div align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-black?&style=for-the-badge&logo=html5&logoColor=blue"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-black?&style=for-the-badge&logo=css3&logoColor=red"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=gray" /> <img alt="Figma" src="https://img.shields.io/badge/figma-black?&style=for-the-badge&logo=figma&logoColor=purple"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=blue"/> <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</div>
