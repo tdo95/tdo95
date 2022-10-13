@@ -1,5 +1,5 @@
 <!--    BANNER    -->
-<img src="purple-banner.png" width="100%"> 
+<img src="purple-banner-blue-logo-bigger.png" width="100%"> 
 
 <!--    PERSONAL LINKS    -->
 <p align="center">
