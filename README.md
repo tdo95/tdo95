@@ -35,7 +35,6 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 </div>
 
 <!--    BLOG POSTS    -->
-<br>
 <h2 align='center'>Latest Blog Posts</h2> 
 
 - [Workflow Diagrams & Integrating with Spotify’s API](https://developingdev.netlify.app/2022/08/03/discolist-workflow-diagrams-integrating-with-spotifys-api/)
