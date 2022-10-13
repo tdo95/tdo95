@@ -35,7 +35,9 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 </div>
 
 <!--    BLOG POSTS    -->
-### Latest Blog Posts
+<br>
+<h2 align='center'>Latest Blog Posts</h2> 
+
 - [Workflow Diagrams & Integrating with Spotify’s API](https://developingdev.netlify.app/2022/08/03/discolist-workflow-diagrams-integrating-with-spotifys-api/)
 - [Working with APIs: Starting the Build of a Discography Web App](https://developingdev.netlify.app/2022/07/11/working-with-apis-starting-the-build-of-a-discography-web-app/)
 - [Here’s How I’m Giving Myself A Full Education in Computer Science for Free](https://developingdev.netlify.app/2022/06/09/heres-how-im-giving-myself-a-full-education-in-computer-science-for-free/)
