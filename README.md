@@ -27,7 +27,7 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-787FF6?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=0A0F30"/> 
 	<img alt="jQuery" src="https://img.shields.io/badge/jQuery-787FF6?style=for-the-badge&logo=jquery&logoColor=gray&labelColor=0A0F30" /> 
 	<img alt="Figma" src="https://img.shields.io/badge/figma-787FF6?&style=for-the-badge&logo=figma&logoColor=purple&labelColor=0A0F30"/> 
-	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-787FF6.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0A0F30"/> 
+	<img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-787FF6.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0A0F30"/> 
 	<img alt="markdown" src="https://img.shields.io/badge/Markdown-787FF6?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0A0F30"/> 
 	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-787FF6?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=0A0F30"/> 
 	<img alt="Express" src="https://img.shields.io/badge/Express-787FF6?style=for-the-badge&logo=express&logoColor=lightgreen&labelColor=0A0F30"/> 
