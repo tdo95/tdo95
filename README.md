@@ -76,7 +76,7 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
             <span> <a href="https://github.com/tdo95/levi-calc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 	<a href="https://tdo95.github.io/levi-calc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
             <p align="center">
-              A basic calculator that performs simple mathematic operations, customized with levitating feature. 
+              Levi Calc is a basic calculator that performs simple mathematic operations, customized with levitating feature. 
             </p>
           </p>
         </td>
