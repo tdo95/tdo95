@@ -37,9 +37,9 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 <!--    BLOG POSTS    -->
 <h2 align='center'>Latest Blog Posts</h2> 
 
+- [JavaScript Event Loop: Everything You Need To Know Explained Simply](https://dev.to/tdo95/javascript-event-loop-everything-you-need-to-know-explained-in-simple-terms-fg0)
 - [Workflow Diagrams & Integrating with Spotify’s API](https://developingdev.netlify.app/2022/08/03/discolist-workflow-diagrams-integrating-with-spotifys-api/)
 - [Working with APIs: Starting the Build of a Discography Web App](https://developingdev.netlify.app/2022/07/11/working-with-apis-starting-the-build-of-a-discography-web-app/)
-- [Here’s How I’m Giving Myself A Full Education in Computer Science for Free](https://developingdev.netlify.app/2022/06/09/heres-how-im-giving-myself-a-full-education-in-computer-science-for-free/)
 
 <!--    PROJECTS    -->
 <h2 align='center'>Projects</h2> 
@@ -51,43 +51,43 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
           <h3 align="center">DiscoList</h3>
           <p align="center">
             <a href="https://github.com/tdo95/discolist" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/discolist/blob/main/discolist-demo.gif" alt="Tic Tac Toe demo"/> </a>
-            <span> <a href="https://github.com/tdo95/discolist" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> <a href="https://tdo95.github.io/discolist/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a></a></span>
+            <span> <a href="https://github.com/tdo95/discolist" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> <a href="https://discolist.cyclic.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a></a></span>
             <p align="center">
-              DiscoList is a web application that allows you to look up the discography your favorite artist.
+              DiscoList is a music browsing web application that integrates the Spotify API.
             </p>
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Polyglot</h3>
+          <h3 align="center">Travlr</h3>
           <p align="center">
-            <a href="https://github.com/tdo95/polyglot" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/polyglot/blob/main/poly-demo-small.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/tdo95/polyglot" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="Github Repo" height ="25px"></a> <a href="https://tdo95.github.io/polyglot/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <a href="https://github.com/tdo95/travlr" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/travlr/blob/main/travlr-demo.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/tdo95/travlr" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="Github Repo" height ="25px"></a> <a href="https://travlr.onrender.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center">
-              Polyglot is a text translation tool that allows you to improve your literacy of a foreign language.
+              Travlr is a CRUD application that allows users to keep track of all thier future travel destinations in one place.
             </p>
           </p>
         </td> 
       </tr> 
       <tr>
         <td width="50%">
-          <h3 align="center">Levitating Calculator</h3>
+          <h3 align="center">Countries of the World API</h3>
           <p align="center">
-            <a href="https://github.com/tdo95/levi-calc" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/levi-calc/blob/main/calc-demo.gif" alt="Levitating Calculator"/> </a> <br>
-            <span> <a href="https://github.com/tdo95/levi-calc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
-	<a href="https://tdo95.github.io/levi-calc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
+            <a href="https://github.com/tdo95/countries-of-the-world-api" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/countries-of-the-world-api/blob/main/countries-demo-small.gif" alt="Countries of the World API demo"/> </a> <br>
+            <span> <a href="https://github.com/tdo95/countries-of-the-world-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+	<a href="https://countries-of-the-world.cyclic.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
             <p align="center">
-              Levi Calc is a basic calculator that performs simple mathematic operations, customized with levitating feature. 
+              Get social and geographical information about the countries in the world! 
             </p>
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">ArtVizo</h3>
+          <h3 align="center">FortuneWill</h3>
           <p align="center">
-            <a href="https://github.com/tdo95/aic-art-gallery" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/aic-art-gallery/blob/main/aic-demo-small.gif" alt="AIC Virtual Art Gallery demo"/> </a>
-            <span> <a href="https://github.com/tdo95/aic-art-gallery" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
-	<a href="https://tdo95.github.io/aic-art-gallery/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+            <a href="https://github.com/tdo95/fortunewill" target="_blank" rel="noreferrer"> <img src="https://github.com/tdo95/fortunewill/blob/main/fw-demo-small.gif" alt="FortuneWill demo"/> </a>
+            <span> <a href="https://github.com/tdo95/fortunewill" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-787FF6?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+	<a href="https://fortunewill.glitch.me/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-0A0F30?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
             <p align="center">
-              An interactive 3D virtual art gallery that allows you to view art collections held by the Art Institute of Chicago
+              Predict the outcome of current and upcoming events with FortuneWill.
             </p>
           </p>
         </td>
