@@ -38,8 +38,6 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 <h2 align='center'>Latest Blog Posts</h2> 
 
 - [JavaScript Event Loop: Everything You Need To Know Explained Simply](https://dev.to/tdo95/javascript-event-loop-everything-you-need-to-know-explained-in-simple-terms-fg0)
-- [Workflow Diagrams & Integrating with Spotify’s API](https://developingdev.netlify.app/2022/08/03/discolist-workflow-diagrams-integrating-with-spotifys-api/)
-- [Working with APIs: Starting the Build of a Discography Web App](https://developingdev.netlify.app/2022/07/11/working-with-apis-starting-the-build-of-a-discography-web-app/)
 
 <!--    PROJECTS    -->
 <h2 align='center'>Projects</h2> 
