@@ -21,7 +21,7 @@ My name is Tee, and I'm a software engineer passionate about building experience
 Highly motivated by challenge and empathy driven, I love experimenting with new technologies to create efficient and sustainable solutions that have impact.<br><br>
 
 <!--    TECHNOLOGIES    -->
-<div align="center">
+<!-- <div align="center">
 	<img alt="HTML5" src="https://img.shields.io/badge/html5-787FF6?&style=for-the-badge&logo=html5&logoColor=blue&labelColor=0A0F30"/> 
 	<img alt="CSS3" src="https://img.shields.io/badge/css3-787FF6?&style=for-the-badge&logo=css3&logoColor=red&labelColor=0A0F30"/> 
 	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-787FF6?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=0A0F30"/> 
@@ -32,7 +32,7 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-787FF6?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=0A0F30"/> 
 	<img alt="Express" src="https://img.shields.io/badge/Express-787FF6?style=for-the-badge&logo=express&logoColor=lightgreen&labelColor=0A0F30"/> 
 	<img alt="Node" src="https://img.shields.io/badge/Node-787FF6?style=for-the-badge&logo=node.js&logoColor=darkgreen&labelColor=0A0F30"/>
-</div>
+</div> -->
 
 <!--    BLOG POSTS    -->
 <h2 align='center'>Latest Blog Posts</h2> 
@@ -94,8 +94,8 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 </div>	
 
 <!--    STATS    -->
-<br>
+<!-- <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tdo95&theme=highcontrast&ring=787FF6&fire=FFFFFF&currStreakLabel=FFFFFF&border=B6CBD9">
-</div>
+</div> -->
 
