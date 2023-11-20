@@ -28,11 +28,6 @@ Highly motivated by challenge and empathy driven, I love experimenting with new 
 	<img alt="Node" src="https://img.shields.io/badge/Node-787FF6?style=for-the-badge&logo=node.js&logoColor=darkgreen&labelColor=0A0F30"/>
 </div> -->
 
-<!--    BLOG POSTS    -->
-<h2 align='center'>Latest Blog Posts</h2> 
-
-- [JavaScript Event Loop: Everything You Need To Know Explained Simply](https://dev.to/tdo95/javascript-event-loop-everything-you-need-to-know-explained-in-simple-terms-fg0)
-
 <!--    PROJECTS    -->
 <h2 align='center'>Projects</h2> 
 
