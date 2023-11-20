@@ -3,12 +3,6 @@
 
 <!--    PERSONAL LINKS    -->
 <p align="center">
-  <a href="https://twitter.com/teeintech" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-0A0F30?logo=twitter&logoColor=787FF6&style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tee-o/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0A0F30?logo=linkedin&logoColor=787FF6&style=for-the-badge"/>
-  </a>
   <a href="mailto:tdopress@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-tdopress@gmail.com-0A0F30?logo=gmail&logoColor=787FF6&style=for-the-badge"/>
   </a>
