@@ -1,17 +1,7 @@
-<!--    BANNER    -->
-<img src="purple-banner-blue-logo-bigger.png" width="100%"> 
-
-<!--    PERSONAL LINKS    -->
-<p align="center">
-  <a href="mailto:tdopress@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-tdopress@gmail.com-0A0F30?logo=gmail&logoColor=787FF6&style=for-the-badge"/>
-  </a>
-</p>
-
 <!--    BLURB    -->
 ### Hey There ✨ 
 
-My name is Tee, and I'm a software engineer passionate about building experiences that people enjoy.
+I'm a software engineer passionate about building experiences that people enjoy.
 Highly motivated by challenge and empathy driven, I love experimenting with new technologies to create efficient and sustainable solutions that have impact.<br><br>
 
 <!--    TECHNOLOGIES    -->
